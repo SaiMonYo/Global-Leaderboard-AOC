@@ -1,4 +1,5 @@
-## Global Leaderboard
+## Global Leaderboard 2020
+# Day 1 scores included
 
 | Position | Score | Name |
 | --- | --- | --- |
@@ -38,7 +39,7 @@
 | 34 | 1580 | (anonymous user #798131 |
 | 35 | 1540 | <a href="https://github.com/petertseng" style="color: #009900;">petertseng</a> |
 | 36 | 1488 | <a href="https://github.com/oliver-ni" style="color: #009900;">Oliver Ni</a> |
-| 37 | 1480 | <a href="https://github.com/hyper-neutrino" style="color: #009900;">Zack Chroman</a> |
+| 37 | 1480 | Zack Chroman |
 | 38 | 1399 | Linus Hamilton |
 | 39 | 1379 | dan-simon |
 | 40 | 1360 | <a href="https://github.com/sciyoshi" style="color: #009900;">sciyoshi</a> |
@@ -808,7 +809,7 @@
 | 798= | 20 | <a href="https://github.com/himmelmaus" style="color: #009900;">himmelmaus</a> |
 | 805 | 19 | @irskep |
 | 805= | 19 | BjornMagn |
-| 805= | 19 | <a href="https://github.com/mstang107" style="color: #009900;">Brian Zhou </a> |
+| 805= | 19 | Brian Zhou  |
 | 805= | 19 | <a href="https://github.com/elliot-nelson" style="color: #009900;">Elliot Nelson</a> |
 | 805= | 19 | Kurpilyansky |
 | 805= | 19 | <a href="https://github.com/grawlixes" style="color: #009900;">Kyle Franke</a> |
@@ -945,7 +946,7 @@
 | 938= | 2 | Samo Kralj |
 | 938= | 2 | biac  |
 | 938= | 2 | lrsjohnson |
-| 944 | 1 | <a href="https://github.com/tckmn" style="color: #009900;">(anonymous user #195997</a> |
+| 944 | 1 | (anonymous user #195997 |
 | 944= | 1 | <a href="https://github.com/0sani" style="color: #009900;">0sani</a> |
 | 944= | 1 | Andrei Dukhounik |
 | 944= | 1 | <a href="https://github.com/Abarn279" style="color: #009900;">Andrew H Barnett</a> |
