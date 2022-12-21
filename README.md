@@ -1,4 +1,4 @@
-## Global Leaderboard
+## Global Leaderboard 2022
 
 | Position | Score | Name |
 | --- | --- | --- |
