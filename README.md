@@ -1,5 +1,7 @@
 ## Global Leaderboard 2022
 
+## Global Leaderboard
+
 | Position | Score | Name |
 | --- | --- | --- |
 | 1 | 3142 | <a href="https://github.com/betaveros" style="color: #009900;">betaveros</a> |
@@ -117,7 +119,7 @@
 | 113 | 457 | Timothy Mou |
 | 114 | 452 | (anonymous user #1345535 |
 | 115 | 451 | noblematt |
-| 116 | 449 | <a href="https://github.com/dtinth" style="color: #009900;">Alex Wice</a> |
+| 116 | 449 | Alex Wice |
 | 116= | 449 | <a href="https://github.com/jmerle" style="color: #009900;">Jasper van Merle</a> |
 | 116= | 449 | Ritwin Narra |
 | 119 | 446 | Talchas |
@@ -171,7 +173,7 @@
 | 167 | 315 | IndigoManedWolf |
 | 168 | 311 | <a href="https://github.com/TimHuisman1703" style="color: #009900;">TimHuisman1703</a> |
 | 169 | 310 | hakiobo |
-| 170 | 309 | <a href="https://github.com/5space" style="color: #009900;">thuustalu</a> |
+| 170 | 309 | thuustalu |
 | 171 | 308 | ldskaparmal |
 | 172 | 304 | Ambrose Feinstein |
 | 173 | 302 | <a href="https://github.com/max-sixty" style="color: #009900;">max-sixty</a> |
@@ -286,7 +288,7 @@
 | 281= | 165 | <a href="https://github.com/zegl" style="color: #009900;">Gustav Westling</a> |
 | 283 | 164 | (anonymous user #2054015 |
 | 283= | 164 | Anango Prabhat |
-| 285 | 163 | <a href="https://github.com/Nathan-Fenner" style="color: #009900;">Loks-</a> |
+| 285 | 163 | Loks- |
 | 286 | 162 | <a href="https://github.com/agausmann" style="color: #009900;">Adam Gausmann</a> |
 | 286= | 162 | James Berglund |
 | 286= | 162 | Olle Lapidus |
@@ -311,7 +313,7 @@
 | 307 | 151 | dawninganchors |
 | 308 | 150 | Derek Liu |
 | 309 | 149 | Ayman Eltemmsahy |
-| 309= | 149 | <a href="https://github.com/hyper-neutrino" style="color: #009900;">andrewcarlotti</a> |
+| 309= | 149 | andrewcarlotti |
 | 311 | 147 | (anonymous user #1087784 |
 | 311= | 147 | Coby Tran |
 | 311= | 147 | <a href="https://github.com/Defelo" style="color: #009900;">Defelo</a> |
@@ -451,7 +453,7 @@
 | 447 | 88 | (anonymous user #1823456 |
 | 447= | 88 | (anonymous user #975121 |
 | 449 | 87 | Thomas |
-| 450 | 86 | <a href="https://github.com/nthistle" style="color: #009900;">Craig White</a> |
+| 450 | 86 | Craig White |
 | 450= | 86 | R Chambers |
 | 450= | 86 | inthewaterwheel |
 | 453 | 85 | 1234abcdcba4321 |
@@ -748,7 +750,7 @@
 | 739= | 31 | Solq r |
 | 739= | 31 | Xander Fair |
 | 739= | 31 | <a href="https://github.com/dwhatley19" style="color: #009900;">dwhatley19</a> |
-| 739= | 31 | <a href="https://github.com/tckmn" style="color: #009900;">sle</a> |
+| 739= | 31 | sle |
 | 739= | 31 | thailandmatt |
 | 749 | 30 | Bob Xiong |
 | 749= | 30 | <a href="https://github.com/gregzb" style="color: #009900;">Greg Zborovsky</a> |
@@ -892,7 +894,7 @@
 | 881= | 11 | Tristan Lee |
 | 881= | 11 | moon97 |
 | 881= | 11 | <a href="https://github.com/xeniarose" style="color: #009900;">xenia</a> |
-| 891 | 10 | <a href="https://github.com/asymmetricia" style="color: #009900;">(anonymous user #2330367</a> |
+| 891 | 10 | (anonymous user #2330367 |
 | 891= | 10 | (anonymous user #684026 |
 | 891= | 10 | Andy Li |
 | 891= | 10 | <a href="https://github.com/indianakernick" style="color: #009900;">Indiana Kernick</a> |
@@ -961,10 +963,10 @@
 | 951= | 2 | <a href="https://github.com/the-chenergy" style="color: #009900;">Qianlang Chen</a> |
 | 951= | 2 | Théo Lecerf |
 | 951= | 2 | Tom Sirgedas |
-| 960 | 1 | <a href="https://github.com/hyper-neutrino" style="color: #009900;">Eldar Bogdanov</a> |
+| 960 | 1 | Eldar Bogdanov |
 | 960= | 1 | <a href="https://github.com/etr2460" style="color: #009900;">Erik Ritter</a> |
 | 960= | 1 | <a href="https://github.com/pwnedgod" style="color: #009900;">Ezra Indrastata</a> |
-| 960= | 1 | <a href="https://github.com/MaxwellZen" style="color: #009900;">Robert Spalek</a> |
+| 960= | 1 | Robert Spalek |
 | 960= | 1 | Sleafar  |
 | 960= | 1 | <a href="https://github.com/fee1-dead" style="color: #009900;">fee1-dead</a> |
 | 960= | 1 | jaeheonshim |
