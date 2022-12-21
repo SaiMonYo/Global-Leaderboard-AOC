@@ -57,7 +57,7 @@
 | 53 | 1166 | Joshua Wise  |
 | 54 | 1158 | <a href="https://github.com/tbodt" style="color: #009900;">tbodt</a> |
 | 55 | 1126 | <a href="https://github.com/glguy" style="color: #009900;">glguy</a> |
-| 56 | 1121 | <a href="https://github.com/petertseng" style="color: #009900;">(anonymous user #60233</a> |
+| 56 | 1121 | (anonymous user #60233 |
 | 57 | 1117 | <a href="https://github.com/sparkyb" style="color: #009900;">sparkyb</a> |
 | 58 | 1097 | shengwu |
 | 59 | 1075 | Sam Cappleman-Lynes |
@@ -111,7 +111,7 @@
 | 107 | 680 | <a href="https://github.com/jamie" style="color: #009900;">jamie</a> |
 | 108 | 662 | val tron |
 | 109 | 655 | Matthew Reeder |
-| 110 | 653 | <a href="https://github.com/betaveros" style="color: #009900;">h3r</a> |
+| 110 | 653 | h3r |
 | 111 | 646 | tellowkrinkle |
 | 112 | 643 | <a href="https://github.com/judofyr" style="color: #009900;">Magnus Holm</a> |
 | 113 | 640 | <a href="https://github.com/GreenLightning" style="color: #009900;">Green Lightning</a> |
@@ -141,7 +141,7 @@
 | 137 | 484 | Tautvydas Žilys |
 | 138 | 478 | (anonymous user #197858 |
 | 138= | 478 | Augustin Wenger |
-| 140 | 477 | <a href="https://github.com/timvermeulen" style="color: #009900;">(anonymous user #289486</a> |
+| 140 | 477 | (anonymous user #289486 |
 | 141 | 474 | (anonymous user #204638 |
 | 142 | 471 | <a href="https://github.com/arknave" style="color: #009900;">arknave</a> |
 | 143 | 470 | sgstair |
@@ -234,7 +234,7 @@
 | 230 | 238 | <a href="https://github.com/tterrag1098" style="color: #009900;">tterrag</a> |
 | 231 | 237 | abal |
 | 232 | 236 | Tim Roberts  |
-| 233 | 235 | <a href="https://github.com/sciyoshi" style="color: #009900;">Brian O'Neill</a> |
+| 233 | 235 | Brian O'Neill |
 | 234 | 234 | Cam McKinnon |
 | 235 | 233 | (anonymous user #63186 |
 | 235= | 233 | <a href="https://github.com/vuryss" style="color: #009900;">Georgi Georgiev</a> |
@@ -273,7 +273,7 @@
 | 268= | 194 | <a href="https://github.com/devast8a" style="color: #009900;">devast8a</a> |
 | 270 | 193 | Thomas Hines |
 | 271 | 191 | <a href="https://github.com/andrewgreenh" style="color: #009900;">andreasgruenh</a> |
-| 272 | 190 | <a href="https://github.com/dwahler" style="color: #009900;">Edward Keyes </a> |
+| 272 | 190 | Edward Keyes  |
 | 272= | 190 | Murray Edwards  |
 | 272= | 190 | Vilius Pranckaitis |
 | 275 | 189 | zchen088 |
@@ -436,7 +436,7 @@
 | 431= | 93 | (anonymous user #260995 |
 | 431= | 93 | (anonymous user #374494 |
 | 431= | 93 | (anonymous user #388859 |
-| 431= | 93 | <a href="https://github.com/betaveros" style="color: #009900;">Chuck Walker</a> |
+| 431= | 93 | Chuck Walker |
 | 431= | 93 | <a href="https://github.com/maxlk" style="color: #009900;">Maxim Kulikov</a> |
 | 431= | 93 | <a href="https://github.com/kacredolo" style="color: #009900;">kacredolo</a> |
 | 438 | 92 | <a href="https://github.com/Aesthetikx" style="color: #009900;">Aesthetikx</a> |
@@ -573,9 +573,9 @@
 | 567= | 51 | Michelle Yi  |
 | 567= | 51 | Thomren |
 | 567= | 51 | slushiegoose |
-| 572 | 50 | <a href="https://github.com/mlc" style="color: #009900;">(anonymous user #193354</a> |
-| 572= | 50 | (anonymous user #194227 |
+| 572 | 50 | (anonymous user #194227 |
 | 572= | 50 | (anonymous user #227312 |
+| 572= | 50 | <a href="https://github.com/mlc" style="color: #009900;">mlc</a> |
 | 575 | 49 | (anonymous user #529267 |
 | 575= | 49 | (anonymous user #538069 |
 | 575= | 49 | <a href="https://github.com/MarkKahn" style="color: #009900;">Mark Kahn</a> |
@@ -753,7 +753,7 @@
 | 747= | 16 | Andy Wilcock |
 | 747= | 16 | AndyShafer |
 | 747= | 16 | Chris Hinnerschietz |
-| 747= | 16 | <a href="https://github.com/petertseng" style="color: #009900;">Chris Martin</a> |
+| 747= | 16 | Chris Martin |
 | 747= | 16 | <a href="https://github.com/lhofmann" style="color: #009900;">Lutz Hofmann</a> |
 | 747= | 16 | el_Vrangr |
 | 747= | 16 | <a href="https://github.com/ltomic" style="color: #009900;">ltomic</a> |
@@ -859,7 +859,7 @@
 | 854= | 1 | <a href="https://github.com/FlorianCassayre" style="color: #009900;">Florian Cassayre</a> |
 | 854= | 1 | <a href="https://github.com/MiLk" style="color: #009900;">MiLk</a> |
 | 854= | 1 | <a href="https://github.com/mpajunen" style="color: #009900;">Mikael Kujanpää</a> |
-| 854= | 1 | <a href="https://github.com/an-empty-string" style="color: #009900;">Valdas</a> |
+| 854= | 1 | Valdas |
 | 854= | 1 | <a href="https://github.com/c-Viorel" style="color: #009900;">c-Viorel</a> |
 | 854= | 1 | jwalck  |
 | 854= | 1 | <a href="https://github.com/nmutalik" style="color: #009900;">nmutalik</a> |
