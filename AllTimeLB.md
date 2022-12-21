@@ -1,4 +1,4 @@
-## Global Leaderboard
+# Global Leaderboard 2015 -> 2022
 
 | Position | Score | Name |
 | --- | --- | --- |
@@ -39,9 +39,9 @@
 | 35 | 6767 | <a href="https://github.com/an-empty-string" style="color: #009900;">Tris Emmy Wilson</a> |
 | 36 | 6716 | <a href="https://github.com/ethframe" style="color: #009900;">ethframe</a> |
 | 37 | 6695 | dan-simon |
-| 38 | 6404 | <a href="https://github.com/betaveros" style="color: #009900;">Igor Naverniouk </a> |
+| 38 | 6404 | Igor Naverniouk  |
 | 39 | 6389 | <a href="https://github.com/gengkev" style="color: #009900;">gengkev</a> |
-| 40 | 6383 | <a href="https://github.com/petertseng" style="color: #009900;">(anonymous user #60233</a> |
+| 40 | 6383 | (anonymous user #60233 |
 | 41 | 6360 | <a href="https://github.com/fogleman" style="color: #009900;">Michael Fogleman</a> |
 | 42 | 6275 | <a href="https://github.com/drougge" style="color: #009900;">drougge</a> |
 | 43 | 6147 | Lewin Gan |
@@ -52,10 +52,10 @@
 | 48 | 5846 | <a href="https://github.com/pedrosorio" style="color: #009900;">Pedro Osório</a> |
 | 49 | 5769 | <a href="https://github.com/jtbandes" style="color: #009900;">jtbandes</a> |
 | 50 | 5666 | Carl Schildkraut |
-| 51 | 5653 | <a href="https://github.com/an-empty-string" style="color: #009900;">Matt Gruskin </a> |
+| 51 | 5653 | Matt Gruskin  |
 | 52 | 5637 | (anonymous user #1510407 |
 | 53 | 5538 | Brandon Zhang |
-| 54 | 5343 | <a href="https://github.com/tckmn" style="color: #009900;">sle</a> |
+| 54 | 5343 | sle |
 | 55 | 5323 | <a href="https://github.com/timvermeulen" style="color: #009900;">Tim Vermeulen</a> |
 | 56 | 5254 | gzgreg |
 | 57 | 5236 | <a href="https://github.com/jneubrand" style="color: #009900;">jneubrand</a> |
@@ -71,7 +71,7 @@
 | 67 | 4613 | <a href="https://github.com/5space" style="color: #009900;">5space</a> |
 | 68 | 4567 | (anonymous user #44119 |
 | 69 | 4565 | <a href="https://github.com/Springo" style="color: #009900;">Springo</a> |
-| 70 | 4562 | <a href="https://github.com/bucketpotato01" style="color: #009900;">Erik Amirell Eklöf (Eae02)</a> |
+| 70 | 4562 | Erik Amirell Eklöf (Eae02) |
 | 71 | 4505 | <a href="https://github.com/r3dey3" style="color: #009900;">Kenny K</a> |
 | 72 | 4400 | <a href="https://github.com/mrphlip" style="color: #009900;">mrphlip</a> |
 | 73 | 4347 | Colton Pauderis  |
@@ -110,7 +110,7 @@
 | 106 | 3633 | <a href="https://github.com/LegionMammal978" style="color: #009900;">LegionMammal978</a> |
 | 107 | 3612 | <a href="https://github.com/ttalvitie" style="color: #009900;">ttalvitie</a> |
 | 108 | 3611 | Lewin Gan |
-| 109 | 3608 | <a href="https://github.com/tckmn" style="color: #009900;">Jimmy Mårdell </a> |
+| 109 | 3608 | Jimmy Mårdell  |
 | 110 | 3585 | Joe LeGasse  |
 | 111 | 3563 | Talchas |
 | 112 | 3554 | Max Murin |
@@ -123,7 +123,7 @@
 | 119 | 3379 | <a href="https://github.com/tbodt" style="color: #009900;">tbodt</a> |
 | 120 | 3376 | <a href="https://github.com/alcatrazEscapee" style="color: #009900;">alcatrazEscapee</a> |
 | 121 | 3352 | <a href="https://github.com/lukechampine" style="color: #009900;">lukechampine</a> |
-| 122 | 3334 | <a href="https://github.com/betaveros" style="color: #009900;">h3r</a> |
+| 122 | 3334 | h3r |
 | 123 | 3324 | <a href="https://github.com/jhawthorn" style="color: #009900;">jhawthorn</a> |
 | 124 | 3318 | Colin Liotta |
 | 125 | 3316 | <a href="https://github.com/joeljons" style="color: #009900;">Joel Jonsson</a> |
@@ -184,7 +184,7 @@
 | 180 | 2315 | <a href="https://github.com/alokmenghrajani" style="color: #009900;">alokmenghrajani</a> |
 | 181 | 2295 | Michal Forišek |
 | 182 | 2289 | samczsun  |
-| 183 | 2280 | <a href="https://github.com/dtinth" style="color: #009900;">Alex Wice</a> |
+| 183 | 2280 | Alex Wice |
 | 184 | 2272 | <a href="https://github.com/RidgeX" style="color: #009900;">RidgeX</a> |
 | 185 | 2251 | <a href="https://github.com/rmmh" style="color: #009900;">Ryan Hitchman</a> |
 | 186 | 2234 | (anonymous user #289309 |
@@ -195,7 +195,7 @@
 | 191 | 2183 | <a href="https://github.com/0" style="color: #009900;">0</a> |
 | 192 | 2182 | <a href="https://github.com/pauldraper" style="color: #009900;">Paul Draper</a> |
 | 193 | 2168 | PikMike |
-| 194 | 2158 | <a href="https://github.com/hyper-neutrino" style="color: #009900;">Zack Chroman</a> |
+| 194 | 2158 | Zack Chroman |
 | 195 | 2155 | <a href="https://github.com/CameronAavik" style="color: #009900;">Cameron Aavik</a> |
 | 196 | 2133 | <a href="https://github.com/VitamintK" style="color: #009900;">Kevin Wang</a> |
 | 197 | 2131 | Stephen |
@@ -203,7 +203,7 @@
 | 199 | 2129 | <a href="https://github.com/kevinmchung" style="color: #009900;">kevinmchung</a> |
 | 200 | 2118 | (anonymous user #798131 |
 | 201 | 2101 | Zack Lee |
-| 201= | 2101 | <a href="https://github.com/kevin-brown" style="color: #009900;">wmorganjr</a> |
+| 201= | 2101 | wmorganjr |
 | 203 | 2097 | <a href="https://github.com/sburuiana" style="color: #009900;">sburuiana</a> |
 | 204 | 2096 | andy-k |
 | 205 | 2094 | <a href="https://github.com/andyleap" style="color: #009900;">andyleap</a> |
@@ -212,7 +212,7 @@
 | 207= | 2081 | Paul Hankin |
 | 209 | 2060 | <a href="https://github.com/katemihalikova" style="color: #009900;">Kate Miháliková</a> |
 | 210 | 2059 | GlenboLake |
-| 211 | 2053 | <a href="https://github.com/iKevinY" style="color: #009900;">Alex Crimi</a> |
+| 211 | 2053 | Alex Crimi |
 | 211= | 2053 | <a href="https://github.com/jweather" style="color: #009900;">jweather</a> |
 | 213 | 2052 | Yoshiap |
 | 214 | 2045 | Cyprien Mangin |
@@ -329,7 +329,7 @@
 | 325 | 1356 | <a href="https://github.com/edanaher" style="color: #009900;">edanaher</a> |
 | 326 | 1342 | <a href="https://github.com/vstrimaitis" style="color: #009900;">vstrimaitis</a> |
 | 327 | 1340 | <a href="https://github.com/ExpHP" style="color: #009900;">ExpHP</a> |
-| 328 | 1333 | <a href="https://github.com/glguy" style="color: #009900;">esk727</a> |
+| 328 | 1333 | esk727 |
 | 329 | 1332 | <a href="https://github.com/m4tx" style="color: #009900;">m4tx</a> |
 | 330 | 1331 | <a href="https://github.com/wimglenn" style="color: #009900;">wim glenn</a> |
 | 331 | 1323 | Mathias Bæk Tejs Langhede |
@@ -337,7 +337,7 @@
 | 333 | 1313 | Harrison Weigel |
 | 333= | 1313 | msg555 |
 | 335 | 1311 | <a href="https://github.com/blyxxyz" style="color: #009900;">Jan Verbeek</a> |
-| 336 | 1310 | <a href="https://github.com/nneonneo" style="color: #009900;">@CHz16</a> |
+| 336 | 1310 | @CHz16 |
 | 337 | 1307 | <a href="https://github.com/HookyQR" style="color: #009900;">HookyQR</a> |
 | 338 | 1304 | SeanRBurton |
 | 339 | 1297 | James Weinkam |
@@ -377,7 +377,7 @@
 | 373 | 1158 | David Grenier |
 | 374 | 1156 | (anonymous user #198392 |
 | 375 | 1155 | Graham White |
-| 376 | 1152 | <a href="https://github.com/glguy" style="color: #009900;">batneil</a> |
+| 376 | 1152 | batneil |
 | 377 | 1147 | <a href="https://github.com/Tryneus" style="color: #009900;">Tryneus</a> |
 | 378 | 1140 | Addy |
 | 379 | 1133 | RJ Walsh |
@@ -413,7 +413,7 @@
 | 409 | 995 | <a href="https://github.com/pfgithub" style="color: #009900;">pfg</a> |
 | 410 | 992 | (anonymous user #815608 |
 | 411 | 988 | (anonymous user #637942 |
-| 412 | 985 | <a href="https://github.com/timvermeulen" style="color: #009900;">(anonymous user #289486</a> |
+| 412 | 985 | (anonymous user #289486 |
 | 413 | 979 | <a href="https://github.com/math314" style="color: #009900;">Yosuke Sameshima</a> |
 | 414 | 978 | <a href="https://github.com/itizir" style="color: #009900;">itizir</a> |
 | 415 | 976 | <a href="https://github.com/DayDun" style="color: #009900;">DayDun</a> |
@@ -422,12 +422,12 @@
 | 417= | 972 | Thomas Neill |
 | 419 | 968 | <a href="https://github.com/epitron" style="color: #009900;">epitron</a> |
 | 420 | 964 | Tautvydas Žilys |
-| 421 | 957 | <a href="https://github.com/nneonneo" style="color: #009900;">Bartosz Szreder</a> |
+| 421 | 957 | Bartosz Szreder |
 | 421= | 957 | <a href="https://github.com/prendradjaja" style="color: #009900;">Pandu Rendradjaja</a> |
 | 423 | 956 | <a href="https://github.com/scriptist" style="color: #009900;">Michael Berman</a> |
 | 424 | 949 | <a href="https://github.com/KanegaeGabriel" style="color: #009900;">Gabriel Kanegae</a> |
 | 425 | 942 | angus-g  |
-| 426 | 938 | <a href="https://github.com/sciyoshi" style="color: #009900;">Brian O'Neill</a> |
+| 426 | 938 | Brian O'Neill |
 | 427 | 937 | <a href="https://github.com/evanphoward" style="color: #009900;">Evan Howard</a> |
 | 428 | 936 | Balint R |
 | 429 | 933 | Jacob Magnuson  |
@@ -481,7 +481,7 @@
 | 477 | 841 | rennex |
 | 478 | 840 | Keenan G |
 | 479 | 839 | <a href="https://github.com/gwillen" style="color: #009900;">gwillen</a> |
-| 480 | 838 | <a href="https://github.com/malisper" style="color: #009900;">chz16</a> |
+| 480 | 838 | chz16 |
 | 481 | 833 | <a href="https://github.com/jes" style="color: #009900;">jes</a> |
 | 482 | 830 | <a href="https://github.com/seejohnrun" style="color: #009900;">seejohnrun</a> |
 | 483 | 829 | @Eric_Dykstra |
@@ -490,7 +490,7 @@
 | 486 | 821 | Rustywolf |
 | 487 | 819 | (anonymous user #204638 |
 | 488 | 818 | Dakota Frost |
-| 489 | 816 | <a href="https://github.com/glguy" style="color: #009900;">Snild Dolkow </a> |
+| 489 | 816 | Snild Dolkow  |
 | 489= | 816 | <a href="https://github.com/tomtseng" style="color: #009900;">tomtseng</a> |
 | 491 | 814 | <a href="https://github.com/EoinDavey" style="color: #009900;">Eoin Davey</a> |
 | 492 | 806 | Alice 👩‍🎓 🌸 |
@@ -526,7 +526,7 @@
 | 522 | 730 | <a href="https://github.com/kevin-brown" style="color: #009900;">Kevin Brown</a> |
 | 523 | 728 | <a href="https://github.com/Radvylf" style="color: #009900;">RedwolfPrograms</a> |
 | 523= | 728 | Tyler Bindon |
-| 525 | 725 | <a href="https://github.com/fogleman" style="color: #009900;">Edward Keyes </a> |
+| 525 | 725 | Edward Keyes  |
 | 526 | 724 | Ryan O’Hara |
 | 527 | 723 | <a href="https://github.com/Saluev" style="color: #009900;">Tigran Saluev</a> |
 | 527= | 723 | <a href="https://github.com/farafonoff" style="color: #009900;">farafonoff</a> |
@@ -614,7 +614,7 @@
 | 609= | 608 | <a href="https://github.com/jabagawee" style="color: #009900;">jabagawee</a> |
 | 611 | 603 | Andrew He |
 | 611= | 603 | Winston Ewert |
-| 613 | 601 | <a href="https://github.com/glguy" style="color: #009900;">Liresol</a> |
+| 613 | 601 | Liresol |
 | 614 | 597 | <a href="https://github.com/joefarebrother" style="color: #009900;">joefarebrother</a> |
 | 615 | 596 | @raisfathin |
 | 615= | 596 | Tim Roberts  |
@@ -623,7 +623,7 @@
 | 619 | 595 | Karl Jiang |
 | 619= | 595 | <a href="https://github.com/kaivanes" style="color: #009900;">kaivanes</a> |
 | 621 | 592 | Greg Millam |
-| 622 | 588 | <a href="https://github.com/betaveros" style="color: #009900;">UnrelatedString</a> |
+| 622 | 588 | UnrelatedString |
 | 623 | 586 | (anonymous user #233439 |
 | 623= | 586 | liouzhou_101 |
 | 625 | 585 | <a href="https://github.com/vaultah" style="color: #009900;">vaultah</a> |
@@ -673,7 +673,7 @@
 | 669 | 530 | <a href="https://github.com/kdrag0n" style="color: #009900;">Danny Lin</a> |
 | 670 | 528 | <a href="https://github.com/Artemis21" style="color: #009900;">Artemis</a> |
 | 671 | 527 | (anonymous user #6947 |
-| 671= | 527 | <a href="https://github.com/Zoooook" style="color: #009900;">Peter Norvig</a> |
+| 671= | 527 | Peter Norvig |
 | 673 | 526 | <a href="https://github.com/dougo" style="color: #009900;">Doug Orleans</a> |
 | 674 | 524 | Sam Shideler  |
 | 675 | 521 | <a href="https://github.com/tonghuikang" style="color: #009900;">tonghuikang</a> |
@@ -788,7 +788,7 @@
 | 783= | 440 | vtjeng |
 | 785 | 439 | Han Mertens |
 | 785= | 439 | Matthew Fahrbach |
-| 787 | 438 | <a href="https://github.com/tckmn" style="color: #009900;">Jinpyo Kim</a> |
+| 787 | 438 | Jinpyo Kim |
 | 787= | 438 | Kavan Doctor |
 | 787= | 438 | <a href="https://github.com/PeterDowdy" style="color: #009900;">Peter Dowdy</a> |
 | 787= | 438 | ns-szhang |
@@ -824,7 +824,7 @@
 | 820 | 417 | <a href="https://github.com/epriestley" style="color: #009900;">epriestley</a> |
 | 821 | 416 | (anonymous user #1525144 |
 | 821= | 416 | <a href="https://github.com/mkigikm" style="color: #009900;">mkigikm</a> |
-| 823 | 415 | <a href="https://github.com/jweather" style="color: #009900;">Ben Jones</a> |
+| 823 | 415 | Ben Jones |
 | 823= | 415 | Matthew Ellsworth |
 | 823= | 415 | <a href="https://github.com/ellellie" style="color: #009900;">ellie</a> |
 | 826 | 414 | <a href="https://github.com/djpohly" style="color: #009900;">djpohly</a> |
@@ -898,7 +898,7 @@
 | 894 | 379 | 1234abcdcba4321 |
 | 895 | 378 | (anonymous user #505111 |
 | 895= | 378 | <a href="https://github.com/lizthegrey" style="color: #009900;">lizthegrey</a> |
-| 897 | 376 | <a href="https://github.com/ecnerwala" style="color: #009900;">Harry Slatyer</a> |
+| 897 | 376 | Harry Slatyer |
 | 897= | 376 | JamesB41 |
 | 897= | 376 | John Rizzo  |
 | 897= | 376 | <a href="https://github.com/somebody1234" style="color: #009900;">somebody1234</a> |
@@ -951,11 +951,11 @@
 | 947 | 353 | <a href="https://github.com/DarraghGriffin" style="color: #009900;">Darragh Griffin</a> |
 | 947= | 353 | Frank Yellin |
 | 947= | 353 | <a href="https://github.com/thedufer" style="color: #009900;">thedufer</a> |
-| 950 | 352 | <a href="https://github.com/mlc" style="color: #009900;">(anonymous user #193354</a> |
-| 950= | 352 | Dwayne Towell |
+| 950 | 352 | Dwayne Towell |
 | 950= | 352 | <a href="https://github.com/skeggse" style="color: #009900;">Eli Skeggs</a> |
 | 950= | 352 | Henry Heffan |
 | 950= | 352 | <a href="https://github.com/Katharine" style="color: #009900;">Katharine Berry</a> |
+| 950= | 352 | <a href="https://github.com/mlc" style="color: #009900;">mlc</a> |
 | 955 | 351 | <a href="https://github.com/MatthewMerrill" style="color: #009900;">Matthew Merrill</a> |
 | 955= | 351 | Tong Wei |
 | 957 | 350 | Domantas Jadenkus |
@@ -1065,7 +1065,7 @@
 | 1060= | 309 | (anonymous user #678753 |
 | 1060= | 309 | RenaultAI |
 | 1060= | 309 | nchyapple44 |
-| 1060= | 309 | <a href="https://github.com/5space" style="color: #009900;">thuustalu</a> |
+| 1060= | 309 | thuustalu |
 | 1065 | 308 | Miguel Duarte |
 | 1065= | 308 | <a href="https://github.com/dcchut" style="color: #009900;">Robert Usher</a> |
 | 1067 | 307 | <a href="https://github.com/boppreh" style="color: #009900;">BoppreH</a> |
@@ -1120,7 +1120,7 @@
 | 1116 | 286 | <a href="https://github.com/JeffJankowski" style="color: #009900;">Jeff Jankowski</a> |
 | 1116= | 286 | WithReason |
 | 1116= | 286 | dmontagu |
-| 1119 | 285 | <a href="https://github.com/tckmn" style="color: #009900;">(anonymous user #195997</a> |
+| 1119 | 285 | (anonymous user #195997 |
 | 1119= | 285 | <a href="https://github.com/SkyterX" style="color: #009900;">SkyterX</a> |
 | 1121 | 284 | Elaine Mou |
 | 1121= | 284 | Paul Zagieboylo  |
@@ -1299,7 +1299,7 @@
 | 1295 | 239 | <a href="https://github.com/meithecatte" style="color: #009900;">meithecatte</a> |
 | 1296 | 238 | Michael Lucy |
 | 1296= | 238 | doshmajhan |
-| 1298 | 237 | <a href="https://github.com/mstang107" style="color: #009900;">Brian Zhou </a> |
+| 1298 | 237 | Brian Zhou  |
 | 1298= | 237 | Shashank Bhatt |
 | 1298= | 237 | abal |
 | 1301 | 236 | <a href="https://github.com/skittles1412" style="color: #009900;">skittles1412</a> |
@@ -1341,7 +1341,7 @@
 | 1336= | 227 | <a href="https://github.com/BEN1JEN" style="color: #009900;">BEN1JEN</a> |
 | 1336= | 227 | Stephen Longfield  |
 | 1339 | 226 | Leo Tenenbaum |
-| 1339= | 226 | <a href="https://github.com/Nathan-Fenner" style="color: #009900;">Loks-</a> |
+| 1339= | 226 | Loks- |
 | 1339= | 226 | Matthew Everett  |
 | 1339= | 226 | Nic N |
 | 1339= | 226 | Ryan Smith |
@@ -1537,7 +1537,7 @@
 | 1532= | 188 | <a href="https://github.com/Apitheia" style="color: #009900;">Apitheia</a> |
 | 1532= | 188 | Jack Bowman |
 | 1532= | 188 | Jacob Danks  |
-| 1532= | 188 | <a href="https://github.com/petertseng" style="color: #009900;">Jerome Brock</a> |
+| 1532= | 188 | Jerome Brock |
 | 1532= | 188 | <a href="https://github.com/MadVikingGod" style="color: #009900;">MadVikingGod</a> |
 | 1532= | 188 | Raj Pandita |
 | 1532= | 188 | dd23 |
@@ -1575,7 +1575,7 @@
 | 1568= | 182 | Bruce Yang |
 | 1568= | 182 | Jamsheed M |
 | 1568= | 182 | Sean Burton |
-| 1568= | 182 | <a href="https://github.com/petertseng" style="color: #009900;">fylion </a> |
+| 1568= | 182 | fylion  |
 | 1568= | 182 | <a href="https://github.com/lthistle" style="color: #009900;">lthistle</a> |
 | 1568= | 182 | not Thomas Krall |
 | 1568= | 182 | ryndvs96 |
@@ -1811,7 +1811,7 @@
 | 1807 | 154 | Adam Urato |
 | 1807= | 154 | Amit Gupta |
 | 1807= | 154 | Chris Johnson |
-| 1807= | 154 | <a href="https://github.com/betaveros" style="color: #009900;">Chuck Walker</a> |
+| 1807= | 154 | Chuck Walker |
 | 1807= | 154 | Matthew Neeley |
 | 1807= | 154 | <a href="https://github.com/TheUnlocked" style="color: #009900;">Trevor Paley</a> |
 | 1807= | 154 | brendanjcaffrey |
@@ -1857,7 +1857,7 @@
 | 1850= | 149 | <a href="https://github.com/maggie-j-liu" style="color: #009900;">Maggie Liu</a> |
 | 1850= | 149 | Péter Kovács |
 | 1850= | 149 | Vladimir Urdešić |
-| 1850= | 149 | <a href="https://github.com/hyper-neutrino" style="color: #009900;">andrewcarlotti</a> |
+| 1850= | 149 | andrewcarlotti |
 | 1850= | 149 | <a href="https://github.com/danieljin" style="color: #009900;">danieljin</a> |
 | 1850= | 149 | <a href="https://github.com/jimmehc" style="color: #009900;">jimmehc</a> |
 | 1859 | 148 | (anonymous user #11197 |
@@ -1890,7 +1890,7 @@
 | 1873= | 146 | <a href="https://github.com/stenzek" style="color: #009900;">stenzek</a> |
 | 1873= | 146 | <a href="https://github.com/xSke" style="color: #009900;">xSke</a> |
 | 1888 | 145 | AsamK |
-| 1888= | 145 | <a href="https://github.com/dwahler" style="color: #009900;">Zeki Gurbuz</a> |
+| 1888= | 145 | Zeki Gurbuz |
 | 1888= | 145 | <a href="https://github.com/alstonlo" style="color: #009900;">alstonlo</a> |
 | 1891 | 144 | Brandon Yarbrough |
 | 1891= | 144 | Jimmy Chen |
@@ -1998,7 +1998,6 @@
 | 1987= | 133 | Vladimir Zelevinsky |
 | 1987= | 133 | myndzi |
 | 1996 | 132 | <a href="https://github.com/1000xEngineer" style="color: #009900;">1000xEngineer</a> |
-| 1996= | 132 | Angus Lim |
 | 1996= | 132 | Brett Math |
 | 1996= | 132 | MarcdeFalco  |
 | 1996= | 132 | <a href="https://github.com/RascalTwo" style="color: #009900;">Rascal_Two</a> |
@@ -2008,6 +2007,7 @@
 | 1996= | 132 | <a href="https://github.com/ethanwiebe" style="color: #009900;">ethanwiebe</a> |
 | 1996= | 132 | <a href="https://github.com/inventshah" style="color: #009900;">inventshah</a> |
 | 1996= | 132 | narpfel |
+| 1996= | 132 | raqe |
 | 1996= | 132 | xd y |
 | 2008 | 131 | Andreas Hagesjö |
 | 2008= | 131 | Dominick DiRenzo |
@@ -2176,7 +2176,7 @@
 | 2165= | 116 | <a href="https://github.com/NifleySnifley" style="color: #009900;">Nifley</a> |
 | 2165= | 116 | <a href="https://github.com/pdil" style="color: #009900;">Paolo Di Lorenzo</a> |
 | 2165= | 116 | <a href="https://github.com/acu192" style="color: #009900;">Ryan Henning</a> |
-| 2165= | 116 | <a href="https://github.com/betaveros" style="color: #009900;">Stephen</a> |
+| 2165= | 116 | Stephen |
 | 2165= | 116 | <a href="https://github.com/johnny5th" style="color: #009900;">johnny5th</a> |
 | 2165= | 116 | maket |
 | 2165= | 116 | owaway41533 |
@@ -2346,7 +2346,7 @@
 | 2342 | 101 | (anonymous user #387166 |
 | 2342= | 101 | (anonymous user #443664 |
 | 2342= | 101 | Apollo |
-| 2342= | 101 | <a href="https://github.com/hyper-neutrino" style="color: #009900;">Eldar Bogdanov</a> |
+| 2342= | 101 | Eldar Bogdanov |
 | 2342= | 101 | Gustav Kalander |
 | 2342= | 101 | Mizuko |
 | 2342= | 101 | Peter de Rivaz |
@@ -2538,7 +2538,7 @@
 | 2527= | 88 | <a href="https://github.com/rkallos" style="color: #009900;">rkallos</a> |
 | 2535 | 87 | (anonymous user #39887 |
 | 2535= | 87 | <a href="https://github.com/JakobDegen" style="color: #009900;">Jakob Degen</a> |
-| 2535= | 87 | <a href="https://github.com/malisper" style="color: #009900;">Jeremy</a> |
+| 2535= | 87 | Jeremy |
 | 2535= | 87 | <a href="https://github.com/knosmos" style="color: #009900;">Jieruei Chang</a> |
 | 2535= | 87 | <a href="https://github.com/BrackCarmony" style="color: #009900;">Kedirech</a> |
 | 2535= | 87 | <a href="https://github.com/ldmoray" style="color: #009900;">Lenny Morayniss</a> |
@@ -2556,7 +2556,7 @@
 | 2549= | 86 | Béla Mérvadó |
 | 2549= | 86 | Chris Battey |
 | 2549= | 86 | <a href="https://github.com/CpnAhab" style="color: #009900;">CpnAhab</a> |
-| 2549= | 86 | <a href="https://github.com/nthistle" style="color: #009900;">Craig White</a> |
+| 2549= | 86 | Craig White |
 | 2549= | 86 | David Hao |
 | 2549= | 86 | Elliot Penson  |
 | 2549= | 86 | Leul Aleme |
@@ -2661,7 +2661,7 @@
 | 2645= | 81 | tapansino91 |
 | 2658 | 80 | (anonymous user #121173 |
 | 2658= | 80 | <a href="https://github.com/Aurel300" style="color: #009900;">Aurel</a> |
-| 2658= | 80 | <a href="https://github.com/anthonynguyen" style="color: #009900;">Bart Massey</a> |
+| 2658= | 80 | Bart Massey |
 | 2658= | 80 | Chris Indoe |
 | 2658= | 80 | Chris Toshok |
 | 2658= | 80 | Dávid Pörös |
@@ -3889,7 +3889,7 @@
 | 3875= | 29 | Daniel Tomkins |
 | 3875= | 29 | David Castillo |
 | 3875= | 29 | Hayden Jensen |
-| 3875= | 29 | <a href="https://github.com/betaveros" style="color: #009900;">Jessica Yuan</a> |
+| 3875= | 29 | Jessica Yuan |
 | 3875= | 29 | Joel Harmon |
 | 3875= | 29 | Johan Lindell |
 | 3875= | 29 | <a href="https://github.com/mdfrncs" style="color: #009900;">Michael Francis</a> |
@@ -4263,7 +4263,7 @@
 | 4258= | 17 | (anonymous user #436600 |
 | 4258= | 17 | Alexander Spichak |
 | 4258= | 17 | András Leitereg  |
-| 4258= | 17 | <a href="https://github.com/betaveros" style="color: #009900;">AndyShafer</a> |
+| 4258= | 17 | AndyShafer |
 | 4258= | 17 | David McGrath |
 | 4258= | 17 | <a href="https://github.com/FrozenDude101" style="color: #009900;">FrozenDude101</a> |
 | 4258= | 17 | <a href="https://github.com/grahamplace" style="color: #009900;">Graham Place</a> |
@@ -4303,7 +4303,7 @@
 | 4292= | 16 | Cameron Wu |
 | 4292= | 16 | Cedric |
 | 4292= | 16 | Chris Hinnerschietz |
-| 4292= | 16 | <a href="https://github.com/petertseng" style="color: #009900;">Chris Martin</a> |
+| 4292= | 16 | Chris Martin |
 | 4292= | 16 | Consonant Wave |
 | 4292= | 16 | <a href="https://github.com/JnxF" style="color: #009900;">Francisco Martínez Lasaca</a> |
 | 4292= | 16 | Hedley Gisbourne |
@@ -4521,7 +4521,7 @@
 | 4481= | 11 | <a href="https://github.com/morisan" style="color: #009900;">morisan</a> |
 | 4481= | 11 | seldomskye |
 | 4481= | 11 | <a href="https://github.com/xeniarose" style="color: #009900;">xenia</a> |
-| 4520 | 10 | <a href="https://github.com/asymmetricia" style="color: #009900;">(anonymous user #2330367</a> |
+| 4520 | 10 | (anonymous user #2330367 |
 | 4520= | 10 | (anonymous user #682404 |
 | 4520= | 10 | (anonymous user #684026 |
 | 4520= | 10 | @ShaneHuntley  |
@@ -4852,39 +4852,39 @@
 | 4808= | 2 | <a href="https://github.com/markdamobi" style="color: #009900;">markdamobi</a> |
 | 4808= | 2 | <a href="https://github.com/mpapierski" style="color: #009900;">mpapierski</a> |
 | 4808= | 2 | <a href="https://github.com/ryantan" style="color: #009900;">ryantan</a> |
-| 4851 | 1 | <a href="https://github.com/Aneurysm9" style="color: #009900;">(anonymous user #540</a> |
+| 4851 | 1 | (anonymous user #540 |
 | 4851= | 1 | (anonymous user #56115 |
 | 4851= | 1 | (anonymous user #803829 |
 | 4851= | 1 | <a href="https://github.com/0sani" style="color: #009900;">0sani</a> |
-| 4851= | 1 | DSM |
 | 4851= | 1 | <a href="https://github.com/etr2460" style="color: #009900;">Erik Ritter</a> |
 | 4851= | 1 | <a href="https://github.com/eutro" style="color: #009900;">Eutro</a> |
 | 4851= | 1 | <a href="https://github.com/pwnedgod" style="color: #009900;">Ezra Indrastata</a> |
 | 4851= | 1 | <a href="https://github.com/FlorianCassayre" style="color: #009900;">Florian Cassayre</a> |
 | 4851= | 1 | Galen Gornowicz |
-| 4851= | 1 | <a href="https://github.com/petertseng" style="color: #009900;">Joel Harmon</a> |
+| 4851= | 1 | Joel Harmon |
 | 4851= | 1 | Joseph Gaasbeck |
 | 4851= | 1 | <a href="https://github.com/KenMGJ" style="color: #009900;">Ken Giroux</a> |
-| 4851= | 1 | <a href="https://github.com/betaveros" style="color: #009900;">Luka Horjak</a> |
+| 4851= | 1 | Luka Horjak |
 | 4851= | 1 | Matthew Semeniuk |
 | 4851= | 1 | Michael Kwan |
 | 4851= | 1 | <a href="https://github.com/mpajunen" style="color: #009900;">Mikael Kujanpää</a> |
-| 4851= | 1 | <a href="https://github.com/r-sreeram" style="color: #009900;">Mitch Keenan</a> |
+| 4851= | 1 | Mitch Keenan |
 | 4851= | 1 | <a href="https://github.com/magneticflux-" style="color: #009900;">Mitchell Skaggs</a> |
 | 4851= | 1 | <a href="https://github.com/oskarek" style="color: #009900;">Oskar Ek</a> |
-| 4851= | 1 | Paul Hankin |
-| 4851= | 1 | <a href="https://github.com/betaveros" style="color: #009900;">Reid Price</a> |
+| 4851= | 1 | Reid Price |
 | 4851= | 1 | Rita Chen |
-| 4851= | 1 | <a href="https://github.com/glguy" style="color: #009900;">Robert Frånlund</a> |
-| 4851= | 1 | <a href="https://github.com/MaxwellZen" style="color: #009900;">Robert Spalek</a> |
+| 4851= | 1 | Robert Frånlund |
+| 4851= | 1 | Robert Spalek |
 | 4851= | 1 | Sleafar  |
-| 4851= | 1 | <a href="https://github.com/an-empty-string" style="color: #009900;">Valdas</a> |
+| 4851= | 1 | Valdas |
 | 4851= | 1 | <a href="https://github.com/varunagrawal" style="color: #009900;">Varun Agrawal</a> |
 | 4851= | 1 | Veronika |
 | 4851= | 1 | <a href="https://github.com/bjonnh" style="color: #009900;">bjonnh</a> |
 | 4851= | 1 | <a href="https://github.com/fee1-dead" style="color: #009900;">fee1-dead</a> |
 | 4851= | 1 | jaeheonshim |
 | 4851= | 1 | <a href="https://github.com/kradical" style="color: #009900;">kradical</a> |
+| 4851= | 1 | lent</a> |
+| 4851= | 1 | ntmace |
+| 4851= | 1 | pectre |
 | 4851= | 1 | tututuana |
 | 4851= | 1 | <a href="https://github.com/xPaw" style="color: #009900;">xPaw</a> |
-| 4851= | 1 | <a href="https://github.com/zielmicha" style="color: #009900;">zielmicha</a> |
