@@ -1,4 +1,4 @@
-## Global Leaderboard 2015 -> 2022
+## Global Leaderboard From 2015 -> 2023
 
 | Position | Score | Name |
 | --- | --- | --- |
